@@ -13,10 +13,11 @@ __pycache__/
 .idea/
 
 # Models and Generated Data
-models/
-data/
-outputs/
-images/
+# (Allowing models, data, and images for portfolio completion)
+# models/
+# data/
+# outputs/
+# images/
 
 # System files
 .DS_Store
