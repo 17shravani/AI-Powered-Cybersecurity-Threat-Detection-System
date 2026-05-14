@@ -1,0 +1,23 @@
+# Environments
+venv/
+env/
+.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+
+# Models and Generated Data
+models/
+data/
+outputs/
+images/
+
+# System files
+.DS_Store
+Thumbs.db
